@@ -12,6 +12,7 @@ let passwordBucket = "";
 
 // Function to generate the password and ask for password requirements 
 function generatePassword() {
+  passwordBucket = "";
 
   // Asks for and defines passwordLength
   var passwordLength = window.prompt("How Many Characters Would You Like in Your Password?");
