@@ -10,7 +10,7 @@ Employees with sensitive data to protect would like to be able to generate stron
 
 Visit the finished product here: https://tessshearer.github.io/Password-Generator/
 
-![Screenshot of Password Generator](./Develop/password-generator-screenshot.png)
+![Screenshot of Password Generator](./assets/images/password-generator-screenshot.png)
 
 
 ## Credits
